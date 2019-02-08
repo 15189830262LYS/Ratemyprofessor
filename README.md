@@ -1,2 +1,2 @@
 # Ratemyprofessor
-Thinghua University
+Thinghua University AI-Lab
